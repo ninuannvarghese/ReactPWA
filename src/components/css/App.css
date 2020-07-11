@@ -1,0 +1,19 @@
+.overlay .mask:hover {
+    opacity: 0.5;
+}
+.main-container {
+    background-image: linear-gradient(to right, rgba(12.94%, 14.90%, 22.75%, 1.00) 150px, rgba(20.39%, 22.35%, 29.02%, 0.84) 100%);
+
+}
+.details-cont{
+
+    background-image: linear-gradient(to right, rgba(12.94%, 14.90%, 22.75%, 1.00) 150px, rgba(20.39%, 22.35%, 29.02%, 0.84) 100%);
+    background-position: right -200px top;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.details-cont .card {
+    background-color: transparent;
+    background-image: linear-gradient(to right, rgba(12.94%, 14.90%, 22.75%, 1.00) 150px, rgba(20.39%, 22.35%, 29.02%, 0.84) 100%);
+
+}
